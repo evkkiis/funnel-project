@@ -17,7 +17,7 @@
 | Поле | Значение |
 |---|---|
 | Адрес репозитория сайта | https://github.com/evkkiis/ga4-analytics-lab-bulaeva |
-| Публичный адрес сайта |  |
+| Публичный адрес сайта | https://ga4-analytics-lab-bulaeva.vercel.app |
 | Статус публикации | READY |
 | Analytics Account | GA4 Analytics Lab — Bulaeva |
 | Property | College Landing |
