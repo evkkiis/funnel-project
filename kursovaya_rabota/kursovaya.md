@@ -11,7 +11,7 @@
 | Репозиторий проекта | https://github.com/evkkiis/tz-19-shkola-tancev-ritm-holl |
 | Сайт на Vercel | https://tz-19-shkola-tancev-ritm-holl.vercel.app/ |
 | Описание работы `docs/opisanie.md` | Разработан адаптивный сайт школы танцев на HTML, CSS и JS (11 страниц, тест подбора направления, форма записи), опубликованный на Vercel. Настроена отправка заявок в Google Таблицу через Apps Script с валидацией данных. Внедрена сквозная аналитика Google Analytics 4: тег на всех страницах, 18 событий (включая generate_lead), пользовательские параметры и сбор UTM-меток для отслеживания источников трафика. Построен дашборд в Yandex DataLens для визуализации заявок по статусам. Все этапы зафиксированы в аналитической записке и скриншотах в репозитории. |
-| Презентация `presentation/zashchita.pdf` | ___ |
+| Презентация `presentation/zashchita.pdf` | presentation/zashchita.pdf |
 | Таблица заявок (доступ на просмотр) | https://docs.google.com/spreadsheets/d/1l_YrBfRynefdUmUsPdBC0fG5iHLxAtjBe1K81BsXBXY/edit?usp=sharing |
 | Дашборд DataLens | https://datalens.ru/wizard/lu4xz8n1xsaw4-ritm-holl-newyear-show-2026 |
 | Reel с автоответом | ___ |
